@@ -1,4 +1,4 @@
-# Holistic Data Preparer (Final Project)[cite: 2]
+# Holistic Data Preparer (Final Project)
 
 ## 🎯 Project Objective
 The purpose of this project is to test a complete knowledge of Data Preprocessing and Feature Engineering[cite: 2]. The pipeline follows an end-to-end process of preparing a dataset for machine learning: from data understanding to data cleaning, imputation, outlier handling, encoding, scaling, transformations, and feature engineering[cite: 2]. The ultimate outcome is a fully processed dataset ready for ML modeling[cite: 2].
